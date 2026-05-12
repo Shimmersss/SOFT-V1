@@ -3,4 +3,5 @@
 
 # 反选要上传的文件/文件夹
 !.gitignore
+!README.md
 !dist/
